@@ -1,0 +1,7 @@
+streamlit
+ollama
+plotly
+beautifulsoup4
+requests
+dwave-ocean-sdk
+cirq-core
